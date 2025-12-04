@@ -1,6 +1,6 @@
 # Freelancer Frontend (React + Vite)
 
-![Freelancer App Screenshot](./public/readme-screenshot.svg)
+
 
 Brief frontend for a Freelancer marketplace application. This React + Vite app contains the public UI used by clients, freelancers and admins to browse jobs, post jobs, send proposals, and manage tasks and payments.
 
@@ -55,10 +55,6 @@ Contributing
 
 Adding this README and image to Git (example):
 
-```powershell
-git add README.md public/readme-screenshot.svg
-git commit -m "docs: Add frontend README and README image"
-git push origin main
-```
+
 
 If you want, I can also update the root README to reference this frontend README and link to the backend README.
